@@ -1,0 +1,11 @@
+torch
+torchvision
+huggingface-hub
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pillow
+pandas
+numpy
